@@ -1,0 +1,2 @@
+//drawBarChart(data, options, element);
+
