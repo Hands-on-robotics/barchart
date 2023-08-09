@@ -1,0 +1,9 @@
+{
+  "name": "stretch-project-1",
+  "version": "1.0.0",
+  "description": "Package.json file for Customizable Bar Chart",
+  "main": "script.js",
+  "devDependencies": {
+    "eslint-config-lighthouselabs": "lighthouse-labs/eslint-config-lighthouselabs"
+  }
+}
